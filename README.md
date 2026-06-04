@@ -38,7 +38,7 @@ Para mantener la trazabilidad del método científico y la ingeniería del proye
 
 ---
 
-*Desarrollado por Miguel Armas (@MikelMZ).*
+*Desarrollado por Miguel Armas (@M16artz).*
 
 link del overleaf: 
 https://www.overleaf.com/4253163886vsprwvxdykvg#94dd56
